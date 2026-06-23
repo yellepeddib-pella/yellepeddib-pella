@@ -1,41 +1,49 @@
 # Bhargav Yellepeddi
-**Data Engineering Intern @ Pella Corporation**  
+**Data Engineering Intern @ Pella Corporation**
 
-This is my Pella-specific GitHub account for work-related development and collaboration.
+This is my Pella-specific GitHub account for work-related data engineering development and collaboration.
 
 ---
 
 ## 🔍 Current Focus
-- Building and validating **analytics-ready datasets** in Databricks
-- Developing **source-to-target (S2T) transformations** for data pipelines
-- Designing **data models (facts, dimensions, aggregates)** for business use cases
-- Ensuring **data quality, traceability, and consistency** across workflows
+- Building and maintaining **analytics-ready datasets** in Databricks
+- Developing **scalable data pipelines and transformations** (S2T workflows)
+- Designing and refining **data models (fact, dimension, aggregate layers)**
+- Ensuring **data quality, validation, and consistency** across pipelines
 
 ---
 
 ## 🛠️ Technical Work
-- Databricks (PySpark, notebooks, lakehouse workflows)
-- SQL-based transformations, validation, and troubleshooting
-- Data pipeline development and testing
-- Data modeling (fact tables, dimensions, aggregation layers)
-- Supporting ELT processes for downstream analytics/reporting
+- Databricks (PySpark, SQL, notebook-based development)
+- Lakehouse architecture (data movement, transformation, and modeling)
+- SQL transformations, validation logic, and performance tuning
+- Data pipeline development and testing using structured workflows
+- Supporting downstream analytics and reporting use cases
 
 ---
 
 ## 📊 Project Areas
+
 ### Package Dwell Analytics
-- Contributing to development of **aggregated datasets** for dwell analysis
-- Translating business requirements into **structured data models**
-- Validating transformations against expected metrics and logic
-- Collaborating on schema design and refinement
+- Developing components of **aggregated datasets** for dwell-time analysis
+- Translating business requirements into **structured, analytics-ready data models**
+- Validating transformations against expected metrics and business logic
+- Collaborating on schema design aligned with reporting and analytics needs
 
 ---
 
-## 🎯 Approach
-- Focus on building **reliable, scalable, and well-structured data systems**
-- Emphasis on **clear data definitions and business alignment**
-- Iterative development with validation at each stage (S2T + aggregates)
-- Strong attention to **data correctness and usability**
+## 🔄 Data Engineering Approach
+- Focus on building **reliable, scalable, and production-ready data pipelines**
+- Emphasis on **data quality, traceability, and clear data definitions**
+- Aligning data structures with **business use cases and analytical goals**
+- Iterative development with validation across **S2T transformations and aggregate layers**
+
+---
+
+## 📈 Analytics Enablement
+- Structuring data for **ease of consumption in BI and analytics tools**
+- Supporting use cases such as **performance measurement, operational analysis, and reporting**
+- Ensuring datasets are **consistent, trusted, and reusable across teams**
 
 ---
 
