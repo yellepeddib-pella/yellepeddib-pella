@@ -1,16 +1,17 @@
 # Bhargav Yellepeddi
 
-Data Engineering Intern at Pella Corporation.
+### Data Engineering Intern @ Pella Corporation
 
-This GitHub account is used for Pella-related development, data engineering, analytics, and internal collaboration.
+This is my Pella-specific GitHub account for work-related development and collaboration.
 
 ## Focus Areas
 
 - Data engineering
 - Databricks and PySpark workflows
-- SQL and analytics-ready data modeling
-- Pipeline validation and transformation logic
+- SQL-based transformation and validation
+- Lakehouse data movement
+- Analytics-ready data modeling
 
 ## Account Scope
 
-This is a Pella-specific work account used for Pella organization access and work-related repositories.
+This account is used only for Pella-related GitHub access, repositories, and development work.
