@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bhargav Yellepeddi
 
-<!--
-**yellepeddib-pella/yellepeddib-pella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering Intern at Pella Corporation.
 
-Here are some ideas to get you started:
+This GitHub account is used for Pella-related development, data engineering, analytics, and internal collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Data engineering
+- Databricks and PySpark workflows
+- SQL and analytics-ready data modeling
+- Pipeline validation and transformation logic
+
+## Account Scope
+
+This is a Pella-specific work account used for Pella organization access and work-related repositories.
