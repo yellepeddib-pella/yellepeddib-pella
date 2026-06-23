@@ -1,15 +1,15 @@
 # Bhargav Yellepeddi
-**Data Engineering Intern @ Pella Corporation**
+**Data Engineering Intern @ Pella Corporation**  
 
-Work GitHub for data engineering development supporting analytics and reporting across Pella.
+Building **analytics-ready data pipelines and models** in Databricks to support production reporting and business decision-making.
 
 ---
 
 ## 🔍 Current Work
 - Building **analytics-ready datasets** in Databricks  
-- Developing **pipeline-based transformations (S2T)** for structured data flows  
-- Designing **fact/dimension data models** for downstream analytics  
-- Implementing **data validation and quality checks** across workflows  
+- Developing **pipeline-based transformations (S2T workflows)**  
+- Designing **fact/dimension data models** for analytics  
+- Implementing **data validation and quality checks**  
 
 ---
 
@@ -24,20 +24,24 @@ Work GitHub for data engineering development supporting analytics and reporting 
 ## 📊 Key Project
 
 ### Package Dwell Analytics
-- Developing **aggregated datasets** to support dwell-time analysis  
-- Translating business logic into **analytics-ready data models**  
-- Validating transformations against **expected metrics and rules**  
+- Developing **aggregated datasets** for dwell-time analysis  
+- Translating business logic into **analytics-ready models**  
+- Validating transformations against **expected metrics**  
 - Contributing to **scalable, reusable pipeline components**  
 
 ---
 
-## 📈 Impact Focus
-- Delivering **production-ready, reliable data** for analytics  
-- Enabling **faster reporting and decision-making**  
-- Structuring data for **BI consumption and reuse**  
-- Ensuring **data consistency, traceability, and clarity**  
+## 📈 Impact
+- Delivering **production-ready data pipelines**  
+- Enabling **analytics and reporting workflows**  
+- Ensuring **data consistency, traceability, and reliability**  
+
+---
+
+## ⭐ Featured Work
+- Data pipeline and modeling implementations in active development across Pella-Digital-Team repositories  
 
 ---
 
 ## ✅ Scope
-Pella-only account used for production data engineering workflows and collaboration.
+Pella-only account for production data engineering workflows and collaboration.
