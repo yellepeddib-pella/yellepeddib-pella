@@ -1,51 +1,43 @@
 # Bhargav Yellepeddi
 **Data Engineering Intern @ Pella Corporation**
 
-This is my Pella-specific GitHub account for work-related data engineering development and collaboration.
+Work GitHub for data engineering development supporting analytics and reporting across Pella.
 
 ---
 
-## 🔍 Current Focus
-- Building and maintaining **analytics-ready datasets** in Databricks
-- Developing **scalable data pipelines and transformations** (S2T workflows)
-- Designing and refining **data models (fact, dimension, aggregate layers)**
-- Ensuring **data quality, validation, and consistency** across pipelines
+## 🔍 Current Work
+- Building **analytics-ready datasets** in Databricks  
+- Developing **pipeline-based transformations (S2T)** for structured data flows  
+- Designing **fact/dimension data models** for downstream analytics  
+- Implementing **data validation and quality checks** across workflows  
 
 ---
 
-## 🛠️ Technical Work
-- Databricks (PySpark, SQL, notebook-based development)
-- Lakehouse architecture (data movement, transformation, and modeling)
-- SQL transformations, validation logic, and performance tuning
-- Data pipeline development and testing using structured workflows
-- Supporting downstream analytics and reporting use cases
+## ⚙️ Tech Stack
+- Databricks (PySpark, SQL)  
+- Lakehouse architecture (Bronze → Silver → Aggregate layers)  
+- SQL (joins, aggregations, validation logic)  
+- Data modeling (fact tables, dimensions, aggregates)  
 
 ---
 
-## 📊 Project Areas
+## 📊 Key Project
 
 ### Package Dwell Analytics
-- Developing components of **aggregated datasets** for dwell-time analysis
-- Translating business requirements into **structured, analytics-ready data models**
-- Validating transformations against expected metrics and business logic
-- Collaborating on schema design aligned with reporting and analytics needs
+- Developing **aggregated datasets** to support dwell-time analysis  
+- Translating business logic into **analytics-ready data models**  
+- Validating transformations against **expected metrics and rules**  
+- Contributing to **scalable, reusable pipeline components**  
 
 ---
 
-## 🔄 Data Engineering Approach
-- Focus on building **reliable, scalable, and production-ready data pipelines**
-- Emphasis on **data quality, traceability, and clear data definitions**
-- Aligning data structures with **business use cases and analytical goals**
-- Iterative development with validation across **S2T transformations and aggregate layers**
+## 📈 Impact Focus
+- Delivering **production-ready, reliable data** for analytics  
+- Enabling **faster reporting and decision-making**  
+- Structuring data for **BI consumption and reuse**  
+- Ensuring **data consistency, traceability, and clarity**  
 
 ---
 
-## 📈 Analytics Enablement
-- Structuring data for **ease of consumption in BI and analytics tools**
-- Supporting use cases such as **performance measurement, operational analysis, and reporting**
-- Ensuring datasets are **consistent, trusted, and reusable across teams**
-
----
-
-## ✅ Account Scope
-This account is used exclusively for Pella-related GitHub access, repositories, and development work.
+## ✅ Scope
+Pella-only account used for production data engineering workflows and collaboration.
